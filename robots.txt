@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aikkiiiydev.github.io/sicklove-simulator/sitemap.xml
